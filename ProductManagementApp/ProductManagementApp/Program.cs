@@ -45,8 +45,6 @@ class Program
                     Console.WriteLine("secim yanlisdir!");
                     break;
             }
-
-
         } while (secim!="0");
        
     
@@ -98,7 +96,7 @@ class Program
         string newProduct;
         string newProductWithoutSpace;
         do
-        { Console.WriteLine(" Diqqet: daxil etdiyiniz adin uzunlugu 2 ile 20 arasinda olmalidir!");
+        { Console.WriteLine("Diqqet: daxil etdiyiniz adin uzunlugu 2 ile 20 arasinda olmalidir!");
             Console.Write("yeni  mehsulun adini daxil edin: ");
             newProduct = Console.ReadLine();
             newProductWithoutSpace = DeleteSpaceInFirstAndlast(newProduct);
@@ -147,7 +145,6 @@ class Program
         return newStr;
     }
 
-
     static int DeleteSpaceInFirst(string str)
     {
         for (int i = 0; i < str.Length; i++)
@@ -179,16 +176,25 @@ class Program
         showProduct(arr);
         Console.Write("adini deyiseceyiniz indexi daxil edin: ");
         bool check;
+        string changeProduct;
+        string changeProductWithoutSpace;
         do
         {
             try
             {
                 check = false;
           int index = Convert.ToInt32(Console.ReadLine());
-          Console.WriteLine($"bu mehsulun adini deyisdireceksiniz:{arr[index]} ");
-          Console.Write("yeni adini daxil edin: ");
-          string newName = Console.ReadLine();
-          arr[index] = DeleteSpaceInFirstAndlast(newName);
+          Console.WriteLine($"bu mehsulun adini deyisdireceksiniz: {arr[index]} ");
+               
+                do
+                {
+                    Console.WriteLine("Diqqet: daxil etdiyiniz adin uzunlugu 2 ile 20 arasinda olmalidir!");
+                    Console.Write("mehsulun yeni adini daxil edin: ");
+                    changeProduct = Console.ReadLine();
+                    changeProductWithoutSpace = DeleteSpaceInFirstAndlast(changeProduct);
+                } while (changeProductWithoutSpace.Length < 2 || changeProductWithoutSpace.Length > 20);
+           
+          arr[index] = changeProductWithoutSpace;
 
             }
             catch 
