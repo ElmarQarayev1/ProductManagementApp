@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/bin/Debug/net7.0/ProductManagementApp
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/bin/Debug/net7.0/ProductManagementApp.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/bin/Debug/net7.0/ProductManagementApp.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/bin/Debug/net7.0/ProductManagementApp.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/bin/Debug/net7.0/ProductManagementApp.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/obj/Debug/net7.0/refint/ProductManagementApp.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/obj/Debug/net7.0/ProductManagementApp.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/ProductManagementApp/ProductManagementApp/ProductManagementApp/obj/Debug/net7.0/ref/ProductManagementApp.dll
